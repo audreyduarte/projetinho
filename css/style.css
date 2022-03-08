@@ -6,7 +6,7 @@
  * Made By MaterializeCSS.com
  */
 
-.icon-block {
+ .icon-block {
   padding: 0 15px;
 }
 .icon-block .material-icons {
@@ -16,4 +16,11 @@
 #resultado {
   text-align: center; 
   color: white;
+}
+
+.actionBtnView{
+  margin-right: 88px
+}
+.actionBtnEdit{
+  margin-right: 42px
 }
